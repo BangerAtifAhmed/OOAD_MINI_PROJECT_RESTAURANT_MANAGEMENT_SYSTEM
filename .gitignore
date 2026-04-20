@@ -1,0 +1,9 @@
+# Exclude pattern folders
+src/model/payment/
+src/model/state/
+src/singleton/
+
+# Compiled output and generated files
+out/
+receipts/
+*.class
